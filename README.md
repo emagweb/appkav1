@@ -1,1 +1,1 @@
-# shakedesign.github.io
+# shake.github.io
